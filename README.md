@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](ali-javaheri.netlify.app)
+### [Live Site](https://ali-javaheri.netlify.app)
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
